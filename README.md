@@ -44,3 +44,12 @@ beat'em all
 🚧 **Development is ongoing...**  
 Stay tuned for upcoming features, boss battles, and a full storyline.  
 _This is just the beginning of Blood and Pain._
+
+
+---
+
+⚠️ **Notice – Private Project**
+
+This is a collaborative commercial project and is subject to licensing restrictions.  
+The repository is **not intended for public distribution** at this stage.  
+Any unauthorized sharing, reproduction, or commercial use is strictly prohibited.
