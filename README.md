@@ -37,12 +37,10 @@ beat'em all
 
 ## 📸 Screenshots
 
-*(To be added)*
+*(on the way)*
 
 ---
 
-## 🧪 How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/BloodAndPain.git
+🚧 **Development is ongoing...**  
+Stay tuned for upcoming features, boss battles, and a full storyline.  
+_This is just the beginning of Blood and Pain._
